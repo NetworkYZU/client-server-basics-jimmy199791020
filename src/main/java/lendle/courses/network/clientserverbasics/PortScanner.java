@@ -25,7 +25,7 @@ public class PortScanner {
                 System.out.println("there is a service on port: "+i);
             }catch(Exception e){
                  System.out.println("there is no service on port: "+i);
-                
+                 
             }
         }
     }
